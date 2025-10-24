@@ -1,1 +1,3 @@
-
+User-agent: *
+Allow: /
+Sitemap: https://dxymor-crypto.github.io/singularity-energy-recycling-hypothesis/sitemap.xml
